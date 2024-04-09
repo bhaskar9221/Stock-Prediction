@@ -3,7 +3,7 @@ fbprophet==0.7.1
 
 
 Cython==0.29.24
-numpy==1.21.3
+numpy==1.3.0
 pandas==1.3.4
 matplotlib==3.4.3
 pystan==3.3.0
